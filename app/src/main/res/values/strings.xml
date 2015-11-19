@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AAD23_Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="btRes_text">Dank Memo Bro</string>
+    <string name="top_text">Top</string>
+    <string name="bottom_text">Bottom</string>
+</resources>
